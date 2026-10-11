@@ -1,0 +1,14 @@
+ECKIS LAUNCHER — WHAT'S NEW
+
+Version 0.8.2
+- Added an option to launch Eckis when you sign in to Windows.
+- Added a launcher changelog accessible from the sidebar and tray menu.
+- Changelog appears once when its text changes, if the option is enabled.
+- Fixed changelog titles overlapping the custom title bar.
+
+Version 0.8.1
+- Improved window restoration, downloads layout, and game artwork loading.
+- Added custom tray controls and close-game confirmation.
+
+Edit this file when publishing a launcher update.
+Users only see the startup changelog again when its content changes.
