@@ -1,0 +1,3 @@
+Version 1.0.0
+- Initial public release.
+- Welcome to Eli's 3:49AM adventure.
