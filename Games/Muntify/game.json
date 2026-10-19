@@ -1,5 +1,6 @@
 {
     "name":  "Muntify",
+    "type": "software",
     "version":  "2.0.0",
     "exe":  "Muntify.exe",
     "downloadUrl":  "https://drive.google.com/file/d/1kFFRaF0963cq1Kji36cKWBlVSdIXm6VS/view?usp=sharing",
