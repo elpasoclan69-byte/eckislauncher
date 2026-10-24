@@ -1,2 +1,1 @@
-Full Launcher Revamp
-Added Themes
+Added Media: built-in photo and video viewer (merged from Eckis Media Viewer)
